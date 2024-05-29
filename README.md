@@ -4,5 +4,7 @@
 </a>
   </div>
   <div align="center">
+    <a href="https://rahim.app">
    <img align="center" src="https://github.com/5rahim/5rahim/blob/main/gh.png" width="480px" alt="Stats" />
+    </a>
 </div>
